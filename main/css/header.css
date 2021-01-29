@@ -1,0 +1,20 @@
+body {
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+#connected_as{
+  pointer-events: none;
+}
+
+#about_link{
+  cursor: pointer;
+}
+
+.navbar-static-top {
+  margin-bottom: 35px;
+}
+
+.glyphicon_header{
+	margin-right: 3px;
+}
